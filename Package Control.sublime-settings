@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"ColorPicker",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Terminal",
+		"Text Pastry"
+	]
+}

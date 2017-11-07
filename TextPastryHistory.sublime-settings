@@ -1,0 +1,270 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "10"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 10"
+			},
+			"key": "1647d8463f4516c1edd77183824b2ccc",
+			"label": "range 1 10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "10",
+					"stop": "1"
+				},
+				"command": "text_pastry_range",
+				"text": "range 10 1"
+			},
+			"key": "bc5f8c35fbb98ffe54438a72376372ae",
+			"label": "range 10 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"step": "2",
+					"stop": "10"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 10 2"
+			},
+			"key": "0d4d51879eb1667c91f1f14ca94d5c97",
+			"label": "range 1 10 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "range 10:"
+				},
+				"command": "text_pastry_range_parser",
+				"text": "range 10:"
+			},
+			"key": "07457c5c393de7609fc9875969fc24f0",
+			"label": "range 10:"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "10"
+				},
+				"command": "text_pastry_range",
+				"text": "range 10"
+			},
+			"key": "051fa39f844ebd4976f984892e802808",
+			"label": "range 10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "10",
+					"stop": "17"
+				},
+				"command": "text_pastry_range",
+				"text": "range 10 17"
+			},
+			"key": "e6fedde56f11f189b5178967e480fc65",
+			"label": "range 10 17"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "10",
+					"stop": "100"
+				},
+				"command": "text_pastry_range",
+				"text": "range 10 100"
+			},
+			"key": "ff4d60c7b3cd16db85b98e42d37094a8",
+			"label": "range 10 100"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "8",
+					"stop": "100"
+				},
+				"command": "text_pastry_range",
+				"text": "range 8 100"
+			},
+			"key": "63075665b87ed4cd1b1bf820213171b9",
+			"label": "range 8 100"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "15 20"
+				},
+				"command": "text_pastry_step",
+				"text": "15 20"
+			},
+			"key": "c941581c3d3d40f6623eff985f259066",
+			"label": "15 20"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "null",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "null"
+			},
+			"key": "37a6259cc0c1dae299a7866489dff0bd",
+			"label": "null"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "input select this",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "input select this"
+			},
+			"key": "b5d1f01a804caecedd95a3d746852c91",
+			"label": "input select this"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "15 1"
+				},
+				"command": "text_pastry_step",
+				"text": "15 1"
+			},
+			"key": "46905d6f3595b548ab155268e9af97ca",
+			"label": "15 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5 10"
+				},
+				"command": "text_pastry_step",
+				"text": "5 10"
+			},
+			"key": "4681550373a780a1fae8ba511b502665",
+			"label": "5 10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5 1"
+				},
+				"command": "text_pastry_step",
+				"text": "5 1"
+			},
+			"key": "1dc1130fc812821d8e4d291e52278263",
+			"label": "5 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5 1 2"
+				},
+				"command": "text_pastry_step",
+				"text": "5 1 2"
+			},
+			"key": "d26bae437aade900ede3a9bfbd272661",
+			"label": "5 1 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "003"
+				},
+				"command": "text_pastry_step",
+				"text": "003"
+			},
+			"key": "e88a49bccde359f0cabb40db83ba6080",
+			"label": "003"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3 1 3"
+				},
+				"command": "text_pastry_step",
+				"text": "3 1 3"
+			},
+			"key": "275691b9991a29649eb542cfe427ec13",
+			"label": "3 1 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "5 1 3"
+				},
+				"command": "text_pastry_step",
+				"text": "5 1 3"
+			},
+			"key": "e6769dc1e8394ffa7dd0894cf0ad42cb",
+			"label": "5 1 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 1 1"
+				},
+				"command": "text_pastry_step",
+				"text": "0 1 1"
+			},
+			"key": "661ea57b2ee2f892b90f1296ab868e99",
+			"label": "0 1 1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "0 1 1"
+		},
+		"command": "text_pastry_step",
+		"text": "0 1 1"
+	}
+}

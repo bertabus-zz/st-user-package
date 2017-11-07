@@ -1,0 +1,18 @@
+{
+	"9o.hist./home/bertabus/go/src/github.com/bertabus/CleaningList":
+	[
+		"help"
+	],
+	"9o.hist./home/bertabus/go/src/github.com/bertabus/GoHome":
+	[
+		"go run main.go",
+		"command-line-arguments",
+		"help",
+		"done",
+		"go run",
+		"run"
+	],
+	"ann": "a17.10.15-1",
+	"install_version": "r17.10.15-1",
+	"version": "r17.10.15-1"
+}
