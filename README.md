@@ -36,6 +36,31 @@ instructions at the [package control website.](https://packagecontrol.io/install
 
 4) restart Sublime Text
 
+# Other Packages, dired
+
+Install other packages that are not found on package control site or github any longer.
+Changing directory to the user directory and then make a symbolic link for each of the packages.
+
+```sh
+# For linux 
+cd ~/.config/sublime-text-3/Packages/User/
+ln -s $PWD/OtherPackages/* ../
+```
+
+This will install dired (directory/file manipulation from within sublime) which is super useful.
+
+# GoSublime
+
+Go sublime must be installed directly from github, you may also need to `go get` some packages.
+
+```sh
+# For Linux
+cd ~/.config/sublime-text-3/Packages/
+rm -rf GoSublime/
+git clone https://github.com/DisposaBoy/GoSublime
+```
+
+
 # creating your own with existing settings
 If you want to make your own repo with existing settings that you already have
 just follow along below. Note that I would copy .gitignore settings prior to doing this.

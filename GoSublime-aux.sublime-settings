@@ -1,4 +1,14 @@
 {
+	"9o.hist./home/bertabus/Desktop":
+	[
+		"run",
+		"`help`",
+		"help"
+	],
+	"9o.hist./home/bertabus/go/src/github.com/bertabus/Barcode":
+	[
+		"go run"
+	],
 	"9o.hist./home/bertabus/go/src/github.com/bertabus/CleaningList":
 	[
 		"help"
@@ -7,12 +17,16 @@
 	[
 		"go run main.go",
 		"command-line-arguments",
-		"help",
 		"done",
 		"go run",
-		"run"
+		"run",
+		"help"
 	],
-	"ann": "a17.10.15-1",
-	"install_version": "r17.10.15-1",
-	"version": "r17.10.15-1"
+	"9o.hist./home/bertabus/go/src/github.com/bertabus/PropertyManagement":
+	[
+		"help"
+	],
+	"ann": "a17.11.14-1",
+	"install_version": "r17.11.14-1",
+	"version": "r17.11.14-1"
 }

@@ -27,20 +27,20 @@
 	    {"cmd": "gs_comp_lint"}
 	],
 	"shell": ["/bin/zsh", "--login", "sh -l -c", "${CMD}"],
-	// "env": {
- //        // "GOPATH": "$HOME/go",
- //        // "GOROOT": "/usr/local/go"
- //    // "osx": {
- //    //     "PATH": "/Users/jsmith/go/bin",
- //    //     "GOPATH": "/Users/jsmith/go"
- //    // },
- //    // "windows": {
- //    //     "PATH": "C:\\Users\\jsmith\\go\\bin",
- //    //     "GOPATH": "C:\\Users\\jsmith\\go"
- //    // },
- //    	"linux": {
- //    	    "PATH": "/home/bertabus/go/bin",
- //    	    "GOPATH": "/home/bertabus/go"
- //    	},
-	// }
+	"env": {
+        // "GOPATH": "$HOME/go",
+        // "GOROOT": "/usr/local/go"
+    // "osx": {
+    //     "PATH": "/Users/jsmith/go/bin",
+    //     "GOPATH": "/Users/jsmith/go"
+    // },
+    // "windows": {
+    //     "PATH": "C:\\Users\\jsmith\\go\\bin",
+    //     "GOPATH": "C:\\Users\\jsmith\\go"
+    // },
+    	"linux": {
+    	    "PATH": "/home/bertabus/go/bin",
+    	    "GOPATH": "/home/bertabus/go"
+    	},
+	},
 }

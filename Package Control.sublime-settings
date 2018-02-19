@@ -7,16 +7,20 @@
 	[
 		"All Autocomplete",
 		"AutoFileName",
+		"AutoPEP8",
 		"ColorPicker",
+		"Expand Selection to Quotes",
 		"FuzzyFilePath",
 		"Git",
 		"GitGutter",
-		"GoSublime",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
 		"NASM x86 Assembly",
 		"Package Control",
+		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved",
+		"Sphinx Office",
 		"Terminal",
 		"Text Pastry"
 	]
