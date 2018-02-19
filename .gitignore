@@ -9,3 +9,5 @@ __pycache__
 .SublimeREPLHistory
 todo.md
 Projects/
+GoSublime-aux.sublime-settings
+GoSublime/*
