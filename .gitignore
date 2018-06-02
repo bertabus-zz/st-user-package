@@ -11,3 +11,4 @@ todo.md
 Projects/
 GoSublime-aux.sublime-settings
 GoSublime/*
+!OtherPackages/*
